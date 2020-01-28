@@ -7,3 +7,9 @@ for information on using markdown.
 
 ### Contents
 * Vim
+* C++
+* Excel VBA
+* C
+* Java
+* Discrete Math
+* Architecture/Mechanics
