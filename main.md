@@ -7,6 +7,7 @@ for information on using markdown.
 
 ### Contents
 * Vim
+* Git
 * C++
 * Excel VBA
 * C
